@@ -117,7 +117,8 @@
 </div>
 </details>
 
-<b>[ 🧑‍🧑‍🧒‍🧒 Mash-Up Android 15th Members ]</b>
+<details>
+<summary><b>[ 🧑‍🧑‍🧒‍🧒 Mash-Up Android 15th Members ]</b></summary>
 <div markdown="1">
 
 ### Staff
@@ -200,3 +201,4 @@
 </table>
 
 </div>
+</detail>
