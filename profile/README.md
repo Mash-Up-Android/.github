@@ -181,7 +181,7 @@
 <summary><b>[ 🧑‍🧑‍🧒‍🧒 Mash-Up Android 14th Members ]</b></summary>
 <div markdown="1">
 
-## Staff
+### Staff
 
 <table>
     <tr align="center">
@@ -254,9 +254,9 @@
             <a href="https://github.com/JeonK1"><I>JeonK1</I></a>
         </td>
         <td>
-          <img src="https://github.com/Sookhee.png?size=100">
+          <img src="https://github.com/JungMinji08.png?size=100">
             <br>
-            <a href="https://github.com/Sookhee"><I>Sookhee</I></a>
+            <a href="https://github.com/JungMinji08"><I>JungMinji08</I></a>
         </td>
         <td>
           <img src="https://github.com/ze-zeh.png?size=100">
