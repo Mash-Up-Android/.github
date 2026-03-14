@@ -27,65 +27,63 @@
 
 ### Members
 
-🚧 <b>Now Recruiting</b>
-
-<!-- <table>
+<table>
     <tr align="center">
-        <td><B>김아린<B></td>
-        <td><B>백다연<B></td>
-        <td><B>서정우<B></td>
-        <td><B>유호현<B></td>
+        <td><B>김주환<B></td>
+        <td><B>문설빈<B></td>
+        <td><B>심은석<B></td>
+        <td><B>전계원<B></td>
     </tr>
     <tr align="center">
         <td>
-            <img src="https://github.com/arinming.png?size=100">
+            <img src="https://github.com/juhwankim-dev.png" width="100" height="100">
             <br>
-            <a href="https://github.com/arinming"><I>arinming</I></a>
+            <a href="https://github.com/juhwankim-dev"><I>juhwankim-dev</I></a>
         </td>
         <td>
-            <img src="https://github.com/ddyeon.png?size=100">
+            <img src="https://github.com/moonsbsb.png" width="100" height="100">
             <br>
-            <a href="https://github.com/ddyeon"><I>ddyeon</I></a>
+            <a href="https://github.com/moonsbsb"><I>moonsbsb</I></a>
         </td>
         <td>
-          <img src="https://github.com/SEO-J17.png?size=100">
+          <img src="https://github.com/simeunseok.png" width="100" height="100">
             <br>
-            <a href="https://github.com/SEO-J17"><I>SEO-J17</I></a>
+            <a href="https://github.com/simeunseok"><I>simeunseok</I></a>
         </td>
         <td>
-            <img src="https://github.com/fbghgus123.png?size=100">
+            <img src="https://github.com/JeonK1.png" width="100" height="100">
             <br>
-            <a href="https://github.com/fbghgus123"><I>fbghgus123</I></a>
+            <a href="https://github.com/JeonK1"><I>JeonK1</I></a>
         </td>
     </tr>
 </table>
 
 <table>
     <tr align="center">
-        <td><B>이창환<B></td>
-        <td><B>전계원<B></td>
-        <td><B>조재훈<B></td>
+        <td><B>전희훈<B></td>
+        <td><B>채윤지<B></td>
+        <td><B>함범준<B></td>
     </tr>
     <tr align="center">
         <td>
-            <img src="https://github.com/2chang5.png?size=100">
+            <img src="https://github.com/citytexi.png" width="100" height="100">
             <br>
-            <a href="https://github.com/2chang5"><I>2chang5</I></a>
+            <a href="https://github.com/citytexi"><I>citytexi</I></a>
         </td>
         <td>
-            <img src="https://github.com/JeonK1.png?size=100">
+            <img src="https://github.com/KateteDeveloper.png" width="100" height="100">
             <br>
-            <a href="https://github.com/JeonK1"><I>JeonK1</I></a>
+            <a href="https://github.com/KateteDeveloper"><I>KateteDeveloper</I></a>
         </td>
         <td>
-          <img src="https://github.com/ze-zeh.png?size=100">
+          <img src="https://github.com/HamBeomJoon.png" width="100" height="100">
             <br>
-            <a href="https://github.com/ze-zeh"><I>ze-zeh</I></a>
+            <a href="https://github.com/HamBeomJoon"><I>HamBeomJoon</I></a>
         </td>
     </tr>
 </table>
 
-</div> -->
+</div>
 
 <br>
 
